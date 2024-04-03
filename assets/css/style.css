@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(45deg, #cdeb0e, #bdabcc);
+}
+
+.container {
+  width: 600px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  background-color: transparent;
+  border-radius: 10px;
+  box-shadow: 3px 2px 74px 0px rgba(0, 0, 0, 0.75);
+}
+
+.container-interno {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  background-color: transparent;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 3px 2px 74px 0px rgba(0, 0, 0, 0.75);
+  width: 30%;
+  height: 50%;
+}
+
+
+
+.horas, .minutos, .segundos {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+
+.descricao {
+  font-size: 20px;
+  font-weight: 100;
+}
+
+
