@@ -11,4 +11,4 @@ Programa web que emula um relógio digital que tem como base brasilia.
 ## Projeto totalmente responsivo
 <img src="assets/img/responsive.png" alt="dispositivos compativeis" align="center" style="width:300px; heigth: 300px;">
 <br>
-<a href="https://calculadora-simples-javascript.vercel.app/">Para acessar o projeto </a>
+<a href="https://relogio-pink-seven.vercel.app/">Para acessar o projeto </a>
