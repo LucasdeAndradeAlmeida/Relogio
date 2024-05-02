@@ -9,6 +9,6 @@ Programa web que emula um relógio digital que tem como base brasilia.
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Projeto totalmente responsivo
-<img src="img/responsive.png" alt="dispositivos compativeis" align="center" style="width:300px; heigth: 300px;">
+<img src="assets/img/responsive.png" alt="dispositivos compativeis" align="center" style="width:300px; heigth: 300px;">
 <br>
 <a href="https://calculadora-simples-javascript.vercel.app/">Para acessar o projeto </a>
